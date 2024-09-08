@@ -5,7 +5,7 @@ Implementation of the VerushHash V1, V2, V2.1, V2.2 hash algorithm as a node.js 
 ## For testing purposes:
 
     sudo apt install libsodium-dev
-    git clone https://github.com/veruscoin/verushash-node
+    git clone https://github.com/daemonfox/verushash-node
     cd verushash-node
     npm install
     node test.js
